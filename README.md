@@ -10,7 +10,7 @@
 - Exploratory data analysis
 
 ### 🛠️ My Tools
-- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
-- Python: NumPy, Pandas
-- Visualisation: Tableau, Matplotlib, Seaborn
+- Databases: SQL (PostgreSQL, MySQL, SQL Server)
+- Python: NumPy, Pandas, Scikit-Learn
+- Visualisation: Matplotlib, Seaborn
 - Project Management: JIRA
