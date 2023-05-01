@@ -1,16 +1,16 @@
-### Hi there 👋
+## Introducing Myself 🙋🏻‍♀️
 
-<!--
-**haozac/haozac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Zac - a self-taught 📊 data scientist and 🛠️ data engineer based in Malaysia. With a background in mechanical engineering, I made a transition to data in 2022 and have been passionately teaching myself 🐍 Python, 💾 SQL, and ☁️ Cloud Computing ever since. My goal is to constantly update myself with the latest technology that can be applied to solve easy to complex problems. I enjoy learning from and connecting with like-minded individuals in the data community. Let's collaborate! 🤝
 
-Here are some ideas to get you started:
+### 💡 My Skills
+- Data preparation, quality assurance, consulting, and analysis
+- Linux and Unix
+- Database design and modelling 
+- ETL
+- Exploratory data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tools
+- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+- Python: NumPy, Pandas
+- Visualisation: Tableau, Matplotlib, Seaborn
+- Project Management: JIRA
