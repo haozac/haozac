@@ -11,6 +11,7 @@
 
 ### 🛠️ My Tools
 - Databases: SQL (PostgreSQL, MySQL, SQL Server)
-- Python: NumPy, Pandas, Scikit-Learn
+- ETL: Apache Nifi, Apache Airflow, Mage
+- Python: NumPy, Pandas, Scikit-Learn, Web Scrapping
 - Visualisation: Matplotlib, Seaborn
 - Project Management: JIRA
